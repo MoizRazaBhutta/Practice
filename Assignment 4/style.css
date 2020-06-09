@@ -1,0 +1,44 @@
+.navbar{
+    background-color:#80CBC4 !important;
+}
+.footer{
+    background-color: darkgray;
+    color: white;
+    margin-bottom: 0px;
+    height: 50px;
+}
+.footer>div{
+    text-align: center;
+}
+.navbart{
+    background-color:#80CBC4 !important;
+    text-align: center;
+    height: 60px;
+    width: 100%;
+    padding-top:10px ;
+}
+.navbart>h2{
+    display: inline;
+}
+.form{
+    margin-bottom: 0px;
+    }
+#header1{
+        color: green;
+        text-align: center;
+    }
+#header2,#header3  {
+        color:blueviolet;
+        text-align: center;
+    }
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.card{
+    margin: 40px;
+    margin-left: 80px;
+    padding: 10px;
+    display: inline-block;
+}
